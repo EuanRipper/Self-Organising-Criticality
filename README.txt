@@ -6,3 +6,4 @@ this is not a new idea. Its called an Abelian Sand pile and is a part of maths i
 try adding a huge pile on one pixel. you'll see some amazing patterns emerge.
 note how adding just a few grains randomly will break this symmetry and create chaos
 see how toppling a pile can have a ripple effect
+made with p5.js
